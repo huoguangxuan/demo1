@@ -3,9 +3,6 @@
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <h2>one more thing~</h2>
-    <h2>two more things~</h2>
-    <h1>what the fuck</h1>
-    <h1>what the fuck~~~~~~</h1>
   </div>
 </template>
 
